@@ -1,0 +1,4 @@
+Hi all, This is text file 2 
+which 
+has some information
+
